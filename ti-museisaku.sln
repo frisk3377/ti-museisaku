@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ti-museisaku", "ti-museisaku.vcxproj", "{17E46133-DBF1-4A0E-8B30-28CA0F9E382A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E46133-DBF1-4A0E-8B30-28CA0F9E382A}.Debug|x64.ActiveCfg = Debug|x64
+		{17E46133-DBF1-4A0E-8B30-28CA0F9E382A}.Debug|x64.Build.0 = Debug|x64
+		{17E46133-DBF1-4A0E-8B30-28CA0F9E382A}.Release|x64.ActiveCfg = Release|x64
+		{17E46133-DBF1-4A0E-8B30-28CA0F9E382A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A0D9D6A-90CF-4267-9AEE-71CADFB416C1}
+	EndGlobalSection
+EndGlobal
